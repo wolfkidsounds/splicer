@@ -19,3 +19,8 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+###> wolfkidsounds/splicer ###
+/data/*
+/data
+###< wolfkidsounds/splicer ###
