@@ -23,6 +23,7 @@
 ###> wolfkidsounds/splicer ###
 /data/*
 /data
+/data/data.db
 ###< wolfkidsounds/splicer ###
 
 ###> symfony/webpack-encore-bundle ###
